@@ -1,4 +1,4 @@
-# My HTML and CSS Project (Kaspar Template)
+# My HTML and CSS Second Project (Kaspar Template)
 
 ## Introduction
 This project is a simple website that showcases my HTML and CSS skills. I created this project to practice web development and learn new techniques.
