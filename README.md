@@ -1,2 +1,4 @@
-# HTML_And_CSS_Template_2
-Template_2 using HTML and CSS
+# My HTML and CSS Project
+
+## Introduction
+This project is a simple website that showcases my HTML and CSS skills. I created this project to practice web development and learn new techniques.
